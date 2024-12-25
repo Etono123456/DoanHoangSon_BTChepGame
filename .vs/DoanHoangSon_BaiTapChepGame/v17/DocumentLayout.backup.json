@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|d:\\unity project\\doanhoangson_baitapchepgame\\assets\\game2d\\animations\\enemy\\statemachine\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\animations\\enemy\\statemachine\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\animations\\enemy\\statemachine\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\animations\\enemy\\statemachine\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\animations\\enemy\\statemachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\animations\\enemy\\statemachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\animations\\enemy\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\animations\\enemy\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\savepoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\assets\\game2d\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F203B914-A9FF-EBAC-261A-D6FD620C15FB}|Assembly-CSharp.csproj|solutionrelative:assets\\game2d\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:38:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IState.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IState.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IState.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IState.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:24:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IdleState.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IdleState.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\IdleState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:35:20.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\PatrolState.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\PatrolState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:27:02.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\AttackState.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Animations\\Enemy\\StateMachine\\AttackState.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Animations\\Enemy\\StateMachine\\AttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:29:05.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\Character.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Character.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\Character.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:37:17.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\MovingPlatform.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\MovingPlatform.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T09:08:06.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SavePoint.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\SavePoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\SavePoint.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\SavePoint.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\SavePoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:41:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\CameraFollow.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:40:29.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Game2D\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Unity Project\\DoanHoangSon_BaiTapChepGame\\Assets\\Game2D\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Game2D\\Scripts\\Player.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:50:22.343Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
